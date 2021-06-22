@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <a href="mailto:masoudd2159@gmail.com">
-    <img src="https://img.shields.io/badge/-MasoudD2159@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:masoudd2159@gmail.com/" 
+    <img src="https://img.shields.io/badge/-MasoudD2159@gmail.com-C5221F?style=flat&logo=Gmail&logoColor=white&link=mailto:masoudd2159@gmail.com/" 
          alt="Gmail masoud_dabbaghi" />
   </a>
   
@@ -27,12 +27,12 @@
   </a>
   
   <a href="https://www.instagram.com/masoud_dabbaghi/">
-    <img src="https://img.shields.io/badge/-Instagram-ED4C67?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/masoud_dabbaghi/" 
+    <img src="https://img.shields.io/badge/-Instagram-DA0145?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/masoud_dabbaghi/" 
          alt="instagram masoud_dabbaghi" />
   </a>
   
   <a href="http://masouddabbaghi.ir/">
-    <img src="https://img.shields.io/badge/-MasoudDabbaghi.ir-009432?style=flat&logo=website&logoColor=white&link=https://www.instagram.com/masoud_dabbaghi/" 
+    <img src="https://img.shields.io/badge/-MasoudDabbaghi.ir-78BF5C?style=flat&logo=website&logoColor=white&link=https://www.instagram.com/masoud_dabbaghi/" 
          alt="web site masoud_dabbaghi" />
   </a>
 </p>
