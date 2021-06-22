@@ -47,8 +47,8 @@
 
 ## 🔧 Languages and Tools
 
-![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Languages-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Languages-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+[![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)](https://developer.android.com/index.html)
+[![](https://img.shields.io/badge/Languages-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)](https://kotlinlang.org/)
+[![](https://img.shields.io/badge/Languages-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)](https://www.java.com/en/)
+[![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)](https://git-scm.com/)
+[![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)](https://www.mysql.com/)
