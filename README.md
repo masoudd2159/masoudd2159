@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Masoud</h1>
-<h3 align="center">A passionate Android Developer from Iran</h3>
+<h3 align="center">A passionate Android Developer from IRAN</h3>
 
 <p align="center"> 
   <img align="center" alt="wallpaper" src="https://github.com/masoudd2159/masoudd2159/blob/main/images/android.png"/>
@@ -47,7 +47,7 @@
 
 ## 🔧 Languages and Tools
 
-![](https://img.shields.io/badge/FrameWork-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Languages-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Languages-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
