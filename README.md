@@ -1,54 +1,51 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Masoud</h1>
-<h3 align="center">A passionate Android Developer from IRAN</h3>
+# Hey, I'm Masoud 👋
 
-<p align="center"> 
-  <img align="center" alt="wallpaper" src="https://github.com/masoudd2159/masoudd2159/blob/main/images/android.png"/>
-</p>
+### Android & iOS Developer • Software Engineer • AI Researcher
 
-<p align="center"> 
-  <a href="mailto:masoudd2159@gmail.com">
-    <img src="https://img.shields.io/badge/-MasoudD2159@gmail.com-C5221F?style=flat&logo=Gmail&logoColor=white&link=mailto:masoudd2159@gmail.com/" 
-         alt="Gmail masoud_dabbaghi" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/masoudd2159/">
-    <img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masoudd2159/" 
-         alt="linkedin masoud_dabbaghi" />
-  </a>
-  
-  <a href="https://t.me/Masoud_Dabbaghi/">
-    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/Masoud_Dabbaghi/" 
-         alt="telegram masoud_dabbaghi" />
-  </a>
-  
-  <a href="https://twitter.com/Masoud_dabbaghi/">
-    <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Masoud_dabbaghi/" 
-         alt="twitter masoud_dabbaghi" />
-  </a>
-  
-  <a href="https://www.instagram.com/masoud_dabbaghi/">
-    <img src="https://img.shields.io/badge/-Instagram-DA0145?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/masoud_dabbaghi/" 
-         alt="instagram masoud_dabbaghi" />
-  </a>
-  
-  <a href="http://masouddabbaghi.ir/">
-    <img src="https://img.shields.io/badge/-MasoudDabbaghi.ir-78BF5C?style=flat&logo=website&logoColor=white&link=https://www.instagram.com/masoud_dabbaghi/" 
-         alt="web site masoud_dabbaghi" />
-  </a>
-</p>
+I build modern mobile applications and explore the intersection of software engineering and artificial intelligence.
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masoudd2159&show_icons=true&locale=en"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoudd2159&show_icons=true&locale=en&layout=compact" alt="masoudd2159" />
-</p>
+Currently focused on Android development, iOS development with Swift, and Large Language Model (LLM) research for intelligent log analysis systems.
 
-<br>
-<br>
+---
 
-## 🔧 Languages and Tools
+## 🚀 What I'm Working On
 
-[![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)](https://developer.android.com/index.html)
-[![](https://img.shields.io/badge/Languages-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)](https://kotlinlang.org/)
-[![](https://img.shields.io/badge/Languages-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)](https://www.java.com/en/)
-[![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)](https://git-scm.com/)
-[![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)](https://www.mysql.com/)
+* 📱 Building Android applications with Kotlin and modern Jetpack components
+* 🍎 Exploring iOS development with Swift
+* 🏗 Designing scalable software architectures
+* 🤖 Researching AI-powered log analysis and anomaly detection
+* 🎓 Developing research projects for Software Engineering
+
+---
+
+## 🛠 Tech Stack
+
+**Mobile Development**
+
+Kotlin • Java • Swift • Android SDK • Jetpack • Compose • XML
+
+**Architecture & Engineering**
+
+MVVM • Clean Architecture • Hilt • Coroutines • Repository Pattern
+
+**Backend & Data**
+
+Spring Boot • MongoDB • MySQL • REST APIs • Retrofit
+
+**AI & Research**
+
+Python • Ollama • Qwen • Prompt Engineering • LLM Evaluation
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: [masoudd2159@gmail.com](mailto:masoudd2159@gmail.com)
+
+💼 LinkedIn: [https://linkedin.com/in/masoudd2159](https://www.linkedin.com/in/masoud-dabbaghi/)
+
+📱 Telegram: https://t.me/Masoud_Dabbaghi
+
+🌍 Website: https://masouddabbaghi.ir
+
+🐙 GitHub: https://github.com/masoudd2159
